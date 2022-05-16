@@ -5,7 +5,7 @@
 Soy estudiante en la universidad de Rio Negro, sede andina
 **Datos:**
 >Estudio ingenieria en computacion
-Tengo 20 anios
+Tengo 20 años
 Soy vegetariana 🐰
 Me gustan muchos los gatitos
 ![gatitu](https://i.imgur.com/fPWFHBW.png)
