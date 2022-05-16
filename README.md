@@ -8,7 +8,7 @@ Soy estudiante en la universidad de Rio Negro, sede andina
 Tengo 20 anios
 Soy vegetariana 🐰
 Me gustan muchos los gatitos
-![gatitu](https://i.imgur.com/NW8YxlT.png)
+![gatitu](https://i.imgur.com/fPWFHBW.png)
 
 
 
